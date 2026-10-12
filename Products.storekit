@@ -1,0 +1,40 @@
+{
+  "identifier" : "SoftFrame",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "18.00",
+      "familyShareable" : true,
+      "internalID" : "SOFTFRAMEUNLOCK",
+      "localizations" : [
+        {
+          "description" : "解锁全部滤镜，并包含之后更新加入的滤镜。",
+          "displayName" : "SoftFrame 全部滤镜",
+          "locale" : "zh_Hans"
+        }
+      ],
+      "productID" : "softframe.unlock",
+      "referenceName" : "Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "SOFTFRAME",
+    "_developerTeamID" : "",
+    "_failTransactionsEnabled" : false,
+    "_locale" : "zh_Hans",
+    "_storefront" : "CHN",
+    "_storeKitErrors" : [
+
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
