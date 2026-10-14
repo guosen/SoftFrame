@@ -1,7 +1,7 @@
 import Foundation
 import CoreGraphics
 
-struct ColorGrade {
+struct ColorGrade: Equatable {
     var saturation: CGFloat
     var contrast: CGFloat
     var brightness: CGFloat
